@@ -9,8 +9,7 @@ A smart and empathetic Mental Health Chatbot built using **Dialogflow** and inte
 - Real-time NLP-based conversation (Dialogflow)
 - Friendly and supportive chatbot persona
 - Custom UI for smooth and intuitive user experience
-- Easy-to-deploy Flask backend
-- Ready for cloud hosting (Render, Railway, etc.)
+- Ready for cloud hosting (Presently deployed on telegram Link-'https://t.me/Wellbeingcompanion_bot')
 
 ---
 
@@ -21,7 +20,7 @@ A smart and empathetic Mental Health Chatbot built using **Dialogflow** and inte
 | Frontend         | HTML, CSS                |
 | Chatbot Engine   | Dialogflow ES            |
 | Backend          | Python (Flask)           |
-| Deployment       | Render                   |
+| Deployment       | Telegram                 |
 | Version Control  | Git & GitHub             |
 
 ---
