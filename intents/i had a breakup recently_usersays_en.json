@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2faf45a7-9e13-4857-bb99-19239900976b",
+    "data": [
+      {
+        "text": "i am stressed due to breakup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df714af4-d9d6-4a07-acbf-6cc7e1c836a0",
+    "data": [
+      {
+        "text": "i had a breakup recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

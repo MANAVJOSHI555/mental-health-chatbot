@@ -1,0 +1,35 @@
+{
+  "id": "75106218-ca45-473f-8302-fd60842582e1",
+  "name": "symptoms of stress",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Physical Symptoms:\n\n    Headaches: Frequent tension or migraines.\n    Muscle Tension or Pain: Tightness in the neck, shoulders, or back.\n    Fatigue: Constant tiredness, even after a full night’s sleep.\n    Sleep Problems: Difficulty falling asleep, staying asleep, or waking up feeling unrested.\n    Digestive Issues: Stomach aches, indigestion, diarrhea, or constipation.\n    Increased Heart Rate: Palpitations or rapid heartbeat.\n    Sweating: Excessive sweating, especially in stressful situations.\n    Weakened Immune System: Getting sick more often, such as colds or infections.\n    Chest Pain or Pressure: Tightness in the chest or shortness of breath.\n    Appetite Changes: Overeating or loss of appetite.\n\nEmotional Symptoms:\n\n    Irritability or Anger: Quick to anger, frustration, or irritability.\n    Anxiety: Constant worry, nervousness, or panic.\n    Restlessness: Feeling agitated or unable to relax.\n    Sadness or Depression: Feeling overwhelmed, helpless, or hopeless.\n    Mood Swings: Rapid changes in mood, from happy to sad or angry.\n    Difficulty Concentrating: Struggling to focus or remember things.\n\nBehavioral Symptoms:\n\n    Avoidance: Withdrawing from social activities, responsibilities, or work.\n    Procrastination: Putting off tasks or avoiding them completely.\n    Substance Use: Using alcohol, drugs, or smoking more than usual.\n    Changes in Eating Habits: Eating too much or too little as a way of coping.\n    Nervous Habits: Nail biting, pacing, fidgeting, or other repetitive behaviors.\n\nCognitive Symptoms:\n\n    Racing Thoughts: Feeling overwhelmed by constant or rapid thoughts.\n    Negative Thinking: Pessimistic thoughts or focusing on worst-case scenarios.\n    Forgetfulness: Difficulty remembering important details or tasks.\n    Poor Judgment: Struggling to make decisions or often making impulsive ones."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

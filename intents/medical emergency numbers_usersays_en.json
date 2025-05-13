@@ -1,0 +1,67 @@
+[
+  {
+    "id": "39722ba4-17f4-46a7-bfc7-02e541de2022",
+    "data": [
+      {
+        "text": "give me some emergency numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1732ef14-6e51-4b6c-9816-7104e3bde318",
+    "data": [
+      {
+        "text": "emergency numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c0f61d2-1161-44c0-8223-ac2c578cb77c",
+    "data": [
+      {
+        "text": "give me some mental health and emergency contact numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fed7f32-9dd4-4e2d-893a-2298b60c469a",
+    "data": [
+      {
+        "text": "can you give me some medical health emergency numbers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "287a0974-5196-4f2a-b997-1f386f5e21ab",
+    "data": [
+      {
+        "text": "medical emergency numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

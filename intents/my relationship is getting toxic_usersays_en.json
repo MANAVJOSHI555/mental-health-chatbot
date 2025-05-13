@@ -1,0 +1,54 @@
+[
+  {
+    "id": "33509dc4-0e11-44b6-a003-5de583a4b973",
+    "data": [
+      {
+        "text": "i feel so stressed in this relationship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62144428-92b9-4dac-b5ed-fa49d08f5256",
+    "data": [
+      {
+        "text": "my relationship is getting toxic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c82f4d8-69bf-4d03-877f-6ccbd17b4686",
+    "data": [
+      {
+        "text": "i am feeling stressed due to my relationship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b3bb4fa-fa5b-436d-89d5-8a35589663a0",
+    "data": [
+      {
+        "text": "my relationship is not going good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

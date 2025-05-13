@@ -1,0 +1,35 @@
+{
+  "id": "45359c31-a42c-4a29-af18-5607be8c9beb",
+  "name": "Dissociative Disorders",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dissociative disorders are mental health conditions involving disruptions or breakdowns in memory, identity, emotion, perception, and behavior. These disorders often develop as a response to trauma, allowing the person to detach from the reality of their experiences to cope with overwhelming stress. They affect how a person processes information and can cause problems in their ability to function in daily life."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

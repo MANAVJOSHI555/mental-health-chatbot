@@ -1,0 +1,36 @@
+{
+  "id": "1e646d4a-7f32-43aa-9afd-180d0dbb284d",
+  "name": "My exam didn\u0027t go well, and I\u0027m so stressed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Exams can be really stressful, but one result doesn’t define your abilities. You’re capable of improving and doing great in the future.",
+            "It’s natural to feel upset when things don’t go as planned. Let’s focus on what you can learn from this and how to prepare for the next one."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

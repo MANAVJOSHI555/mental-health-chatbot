@@ -1,0 +1,41 @@
+[
+  {
+    "id": "113bae74-2b50-4205-89b6-ef7cdad08b44",
+    "data": [
+      {
+        "text": "i will never get things better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cb8b7ec-bc4e-41d6-915a-2c8fb0c4a35c",
+    "data": [
+      {
+        "text": "i got low cgpa i am not able to do anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc54d2ce-4012-4c8f-997d-6b7ff49ba30c",
+    "data": [
+      {
+        "text": "Things will never get better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

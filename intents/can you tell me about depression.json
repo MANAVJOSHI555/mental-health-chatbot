@@ -1,0 +1,36 @@
+{
+  "id": "489e070d-70c0-4d2d-8d96-189a84c33233",
+  "name": "can you tell me about depression",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Depressionis a common mental health condition characterized by persistent feelings of sadness, emptiness, or hopelessness. It can also affect your thoughts, behaviors, and emotions, making it difficult to function in daily life.",
+            "Depression is a common mental health condition that makes you feel sad, hopeless, or empty for a long time. It can also make it hard to do everyday things."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

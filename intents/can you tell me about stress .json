@@ -1,0 +1,35 @@
+{
+  "id": "7fbb3fe3-70e6-4601-bf29-f1796d652caa",
+  "name": "can you tell me about stress ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Stress is your body\u0027s natural response to pressure or challenges. It happens when you feel overwhelmed, anxious, or unable to cope with certain situations. For example, stress can be caused by work, school, relationships, or even big life changes. While a little stress can be motivating, too much can make you feel tired, worried, or even sick."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

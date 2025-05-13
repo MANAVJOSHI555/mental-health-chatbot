@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1297c832-9c8b-46e8-9a35-3d81a75c108b",
+    "data": [
+      {
+        "text": "can you tell me about ptsd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b534228a-e7df-4149-a8b8-b0b789b307e9",
+    "data": [
+      {
+        "text": "tell me about PTSD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c0aa05a-f308-4b3b-b206-538e08a96d0d",
+    "data": [
+      {
+        "text": "what is Post-Traumatic Stress Disorder?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90d8120e-d7fb-4bf2-bba9-9f74a576eb07",
+    "data": [
+      {
+        "text": "what is PTSD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

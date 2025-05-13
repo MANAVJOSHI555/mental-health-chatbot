@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1fbd59af-a912-4ddb-967c-60527cc88902",
+    "data": [
+      {
+        "text": "i am not good at anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e00c291-e287-4649-8cae-d0651491f387",
+    "data": [
+      {
+        "text": "I feel like I fail at everything.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09e95483-5d1a-4bc0-a7dd-9318b05627b6",
+    "data": [
+      {
+        "text": "I can\u0027t do anything right.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30771e0b-9745-4a7d-8994-7b8aac5916fe",
+    "data": [
+      {
+        "text": "I always mess up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

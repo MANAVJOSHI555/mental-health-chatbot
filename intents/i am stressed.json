@@ -1,0 +1,38 @@
+{
+  "id": "298ca95b-d41f-4587-9ec4-6a4b3d6560f7",
+  "name": "i am stressed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry to hear that you\u0027re feeling stressed. Managing stress can be tough, especially with your responsibilities and goals.",
+            "I\u0027m here for you. Take a deep breath with me: inhale slowly for 4 seconds, hold for 4 seconds, and exhale for 6 seconds. Repeat this a few times.\n\nWhen you\u0027re ready, you can share what\u0027s on your mind, and we’ll figure it out together",
+            "I’m sorry to hear you’re feeling this way. Would you like some tips to relax or just someone to listen?",
+            "It’s okay to feel stressed. Let’s work through it together. Can you tell me what’s been on your mind?\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

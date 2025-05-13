@@ -1,0 +1,37 @@
+{
+  "id": "f121d99c-f03e-4126-9790-cf7bd07283a8",
+  "name": "I always mess up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mistakes happen to everyone, but they don’t make you a failure. They’re just opportunities to grow and learn.",
+            "Feeling this way can be really tough. But even when things don\u0027t go as planned, it doesn\u0027t mean you\u0027ve failed—it just means you\u0027re trying.",
+            "It’s okay to make mistakes; it’s how we learn. Let’s focus on one small thing you’ve done well recently."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

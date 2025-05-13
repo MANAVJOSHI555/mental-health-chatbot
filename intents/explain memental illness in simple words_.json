@@ -1,0 +1,36 @@
+{
+  "id": "e4216c1f-5d64-472a-86f1-be42355e1d03",
+  "name": "explain memental illness in simple words?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mental illness is a health condition that affects a person\u0027s thoughts, emotions, and behaviors. It can make it difficult to cope with daily life and relationships.",
+            "Mental illness is a health condition that affects a person\u0027s thoughts, emotions, and behaviors. It can make it difficult to cope with daily life and relationships.\n\nThere are many different types of mental illness, including:\n\n    Depression: A condition characterized by persistent feelings of sadness, emptiness, or hopelessness.\n    Anxiety disorders: A group of conditions that cause excessive fear or worry.\n    Bipolar disorder: A condition characterized by alternating periods of depression and mania.\n    Schizophrenia: A severe mental illness that involves hallucinations and delusions.\n    Eating disorders: Conditions that involve unhealthy eating habits."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

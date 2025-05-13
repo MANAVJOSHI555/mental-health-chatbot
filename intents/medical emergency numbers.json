@@ -1,0 +1,35 @@
+{
+  "id": "25b2b626-ee04-4378-ac2b-dc8ea519bc3b",
+  "name": "medical emergency numbers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some Mental health and Health Emergency numbers are :-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           1. General Medical Emergency\n\n    108: The national emergency number in India for medical, police, and fire emergencies.\n    112: All-in-one emergency helpline for medical, police, and fire emergencies across India.\n\n2. Mental Health and Suicide Prevention Helplines\n\n    Kiran Mental Health Rehabilitation Helpline: 1800-599-0019\n        A 24/7 mental health support line by the Government of India, providing assistance for mental health issues.\n    Snehi Foundation: 91-22-2772 6771\n        A helpline offering counseling services, especially for mental health crises.\n    iCALL (Tata Institute of Social Sciences): 9152987821\n        Available from 10 AM to 8 PM, Monday to Saturday. Provides free counseling and emotional support.\n    AASRA: 91-22-2754 6669\n        24/7 helpline providing suicide prevention counseling.\n    Vandrevala Foundation: 1860-266-2345 or 022-662-62525\n        A dedicated helpline for emotional and mental well-being support."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

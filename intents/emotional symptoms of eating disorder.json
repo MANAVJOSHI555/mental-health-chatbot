@@ -1,0 +1,35 @@
+{
+  "id": "63e5fb9c-c740-482b-b62d-71b73d5a7e06",
+  "name": "emotional symptoms of eating disorder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Emotional and Behavioral Symptoms :-\n\n    Negative thoughts about body image: Constant criticism of one\u0027s body, feeling ashamed or embarrassed about one\u0027s appearance.\n    Obsession with food: Counting calories, restricting certain foods, or avoiding social situations involving food.\n    Mood swings: Irritability, anxiety, depression, or social withdrawal.\n    Substance abuse: Use of alcohol or drugs to cope with negative emotions or to suppress appetite.\n    Compulsive behaviors: Excessive exercise, hoarding food, or engaging in rituals related to eating."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

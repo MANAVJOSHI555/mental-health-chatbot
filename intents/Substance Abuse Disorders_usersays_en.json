@@ -1,0 +1,41 @@
+[
+  {
+    "id": "503fe696-4cf3-4a54-a215-1a232b493761",
+    "data": [
+      {
+        "text": "tell me about Substance Abuse Disorders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbb5ed57-3842-454a-8292-3878756245d4",
+    "data": [
+      {
+        "text": "what is Substance Abuse Disorders ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9493ad0e-0b46-41a4-80cf-1322a1367846",
+    "data": [
+      {
+        "text": "Substance Abuse Disorders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

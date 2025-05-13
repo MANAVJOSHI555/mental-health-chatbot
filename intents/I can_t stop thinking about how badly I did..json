@@ -1,0 +1,37 @@
+{
+  "id": "c0b66c04-b24c-4dda-bdd5-5384cba1e6db",
+  "name": "I can\u0027t stop thinking about how badly I did.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I understand how worrying this must feel, but overthinking won’t change the past. Let’s focus on what you can control moving forward.",
+            "It’s okay to feel anxious about results, but remember, you’ve done your best, and that’s all anyone can ask for",
+            "The outcome isn’t the end of the story. There’s always a way forward, no matter what. Let’s think about how to tackle the next step."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

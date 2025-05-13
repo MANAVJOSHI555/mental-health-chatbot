@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ed0fda59-5a17-462d-9585-1448c1d7ef41",
+    "data": [
+      {
+        "text": "cure for PTSD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd54e9cb-be2c-4ae8-8517-db920c896a38",
+    "data": [
+      {
+        "text": "Tell me some ways to handle PTSD ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4639263-3704-48d8-9dd1-1b8f680f9549",
+    "data": [
+      {
+        "text": "how to treat PTSD ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

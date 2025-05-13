@@ -1,0 +1,41 @@
+{
+  "id": "6b935186-f5be-469f-9aa7-b155f4e4ea6a",
+  "name": "tell me some quick ways to reduce anxiety?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Practice Deep Breathing  2. Mindfulness and Meditation 3. Physical Exercise 4. Limit Caffeine and Alcohol 5. Get Adequate Sleep 6. Stay Connected with Loved Ones",
+            "1. Deep Breathing (4-7-8 Technique)\n\n    How: Inhale for 4 seconds, hold your breath for 7 seconds, and exhale slowly for 8 seconds. Repeat 3-4 times.\n    Why: It calms your nervous system and helps reduce anxiety quickly.",
+            "You can do Grounding Exercise (5-4-3-2-1 Technique)\n\n    How: Focus on your surroundings by identifying:\n        5 things you can see\n        4 things you can touch\n        3 things you can hear\n        2 things you can smell\n        1 thing you can taste\n    Why: This technique helps bring your mind back to the present and reduces anxious thoughts.",
+            "You can try Progressive Muscle Relaxation\n\n    How: Tense each muscle group (starting from your toes) for 5 seconds, then release. Move upwards to your head.\n    Why: It releases physical tension and promotes relaxation.    OR                                                                                                                                                                                         You can Take a Short Walk\n\n    How: Step outside for a brisk 5-10 minute walk.\n    Why: Physical activity boosts endorphins and clears your mind, reducing anxiety.",
+            "Splash Cold Water on Your Face\n\n    How: Gently splash cold water on your face or use an ice pack.\n    Why: Cold exposure stimulates the vagus nerve, which helps calm the body’s stress response.   OR                                                                                                                                         Visualize a Calm Place\n\n    How: Close your eyes and imagine a peaceful place, like a beach or forest. Focus on the details (sounds, smells, colors).\n    Why: Visualization can trick your brain into feeling calmer.",
+            "Listen to Soothing Music\nYou can get all required music playlist on our website just navigate to the mind relaxation section\n    How: Play calming music or sounds like nature or white noise.\n    Why: Music has a direct impact on your mood and can quickly help reduce stress."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

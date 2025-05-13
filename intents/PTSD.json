@@ -1,0 +1,35 @@
+{
+  "id": "b6fba54e-3f1d-41d2-af1f-16672d38341b",
+  "name": "PTSD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Post-traumatic stress disorder (PTSD) is a mental health condition that develops after experiencing a traumatic event. This event can be a personal experience or witnessing it happen to someone else."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

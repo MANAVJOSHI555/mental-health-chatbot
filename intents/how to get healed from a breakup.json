@@ -1,0 +1,35 @@
+{
+  "id": "545a2b24-4476-40a1-85d7-e68f55520cf8",
+  "name": "how to get healed from a breakup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Allow Yourself to Feel\n\n    It’s okay to grieve. Let yourself process emotions like sadness, anger, or disappointment.\n\n2. Limit Contact Temporarily\n\n    Take time and space for yourself. Avoid constant communication to give your heart time to heal.\n\n3. Talk to Someone You Trust\n\n    Share your feelings with a friend, family member, or counselor. Sometimes just talking helps lighten the burden."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

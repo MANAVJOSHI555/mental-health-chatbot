@@ -1,0 +1,35 @@
+{
+  "id": "2c785d9c-b936-4fc7-8065-2f39955bff99",
+  "name": "what do you mean by psycotic disorder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Psychotic disorders are a group of severe mental health conditions that affect a person’s thinking, emotions, and behavior, causing them to lose touch with reality              Symptoms : - Hallucinations , Delusion , cognitive issues  ,Ex: - Schizophrenia , Schizoaffective Disorder ,"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "8f58b65d-17dc-46ae-bbf8-125997c32534",
+  "name": "Can you help me for my mental state",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes I am an AI based chatbot designed to help you the best of my knowledge to prevent you from any mental issue or struggle",
+            "Yes please tell me about your problem I will be happy to help you",
+            "Yes I\u0027m a chatbot designed to provide support and information about mental health. I can\u0027t replace a human therapist, but I can offer guidance and resources."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

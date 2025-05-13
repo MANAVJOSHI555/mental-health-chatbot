@@ -1,0 +1,35 @@
+{
+  "id": "26aa90fa-8c51-4285-b1b6-1818afb2399f",
+  "name": "what is neurodeveloptment disorder?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Neurodevelopmental disorders are a group of conditions that affect the development of the brain and nervous system, leading to impairments in personal, social, academic, or occupational functioning. These disorders typically manifest early in childhood and can affect various areas of development, including communication, cognition, behavior, and motor skills."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

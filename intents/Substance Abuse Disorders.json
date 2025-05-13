@@ -1,0 +1,35 @@
+{
+  "id": "211a1386-0a6d-4f7d-a7d2-5c496f75a36f",
+  "name": "Substance Abuse Disorders",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Substance abuse disorder is a mental health condition characterized by the compulsive use of a substance despite its negative consequences. It involves physical and psychological dependence on a particular substance, leading to difficulty controlling its use and continuing to consume it even when it causes harm."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7c8ceec2-d344-4f4a-b7ab-a9c7487251a1",
+    "data": [
+      {
+        "text": "thank you to assist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28fb4fe4-fcba-42a4-ab0e-6648b10a1f33",
+    "data": [
+      {
+        "text": "thanks for helping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91bbbda1-7fa9-4ec2-9748-bc5c5b8a39df",
+    "data": [
+      {
+        "text": "Thank you !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

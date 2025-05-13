@@ -1,0 +1,41 @@
+[
+  {
+    "id": "20f23a0f-a716-44e9-aa5e-cf3dbdd4e9da",
+    "data": [
+      {
+        "text": "i am feeling stressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44429bf8-3adf-4ed3-ba35-ef30539f4af3",
+    "data": [
+      {
+        "text": "i feel so much stress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efaa33ee-3804-4914-9a46-a5e72ac1f3e2",
+    "data": [
+      {
+        "text": "i am stressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

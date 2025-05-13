@@ -1,0 +1,38 @@
+{
+  "id": "41b2e1d9-d468-45be-9d79-32187f54df3e",
+  "name": "I feel worthless",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m sorry you’re feeling this way. Remember, your worth isn’t determined by how you feel right now. Would you like to talk more about what’s on your mind?",
+            "I’m sorry you’re feeling this way. Your feelings are valid, but they don’t define your worth. You matter more than you know.",
+            "It’s okay to feel down sometimes, but remember, your value isn’t tied to how you feel at this moment. You’re important",
+            "You’re not nothing. You bring value to the world in ways you may not even realize"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

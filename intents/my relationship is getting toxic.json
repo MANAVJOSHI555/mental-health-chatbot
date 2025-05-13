@@ -1,0 +1,38 @@
+{
+  "id": "b2204138-4c52-43e5-9bf9-b084c20572fa",
+  "name": "my relationship is getting toxic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m really sorry to hear that. Relationships can be tough, and it’s okay to feel this way. Would you like to talk about what’s going on?",
+            "It sounds like you’re going through a rough time. Remember, it’s important to take care of yourself too. How can I support you right now?",
+            "I’m here for you. Sometimes sharing how you feel can help ease the burden. Do you want to tell me more?",
+            "It might help to take a step back and reflect: What do you truly need in this relationship?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

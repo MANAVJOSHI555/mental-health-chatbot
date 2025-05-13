@@ -1,0 +1,67 @@
+[
+  {
+    "id": "7f6f30af-3563-44e8-a12b-91ad6f79ac43",
+    "data": [
+      {
+        "text": "I\u0027m not worth anything.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0caf66ed-b6d6-4e08-8aa4-804be162c028",
+    "data": [
+      {
+        "text": "I feel like I\u0027m nothing.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c0acb5f-b0b4-4252-9838-d0387d470d06",
+    "data": [
+      {
+        "text": "I don\u0027t have any value",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c5c8819-55b0-4572-b8a4-ad7c704ee7a1",
+    "data": [
+      {
+        "text": "i am a waste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e0c480-82ef-4759-a5f3-e1bdca64e704",
+    "data": [
+      {
+        "text": "I feel worthless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

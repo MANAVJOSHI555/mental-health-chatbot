@@ -1,0 +1,35 @@
+{
+  "id": "3761adc3-591e-4030-ba1c-f3d9d0922958",
+  "name": "Treatment of Pyscotic Disorder?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Psychotic disorders are typically treated with a combination of:\n1. Antipsychotic medications: These help reduce or eliminate symptoms like hallucinations and delusions by balancing brain chemicals.\n    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------           2. Therapy: Cognitive-behavioral therapy (CBT) can help individuals manage their thoughts and cope with their condition. Family therapy and social skills training may also be helpful.\n   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 3.Support services: Community support, vocational training, and rehabilitation programs assist individuals in managing everyday life.\n    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  4.Hospitalization: In severe cases, hospitalization may be necessary, especially if the person poses a risk to themselves or others."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

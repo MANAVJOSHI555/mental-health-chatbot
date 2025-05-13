@@ -1,0 +1,40 @@
+{
+  "id": "c75fe155-01fd-46bc-98d4-070ab595f4c4",
+  "name": "tips to reduce toxicity in a relationship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Communicate Openly:\n\n    Share your feelings calmly and listen to your partner without judgment.\n    Use \"I feel\" statements instead of blaming (e.g., \"I feel hurt when...\").",
+            "Understand Each Other’s Needs:\n\n    Ask your partner what they expect or need in the relationship.\n    Share your needs honestly, too.",
+            "Show Appreciation:\n\n    Express gratitude for the little things your partner does.\n    Small acts of kindness can rebuild connection.",
+            "Spend Quality Time:\n\n    Prioritize moments together, even if they’re short but meaningful.\n    Try something new together, like a hobby or a relaxing activity.",
+            "Resolve Conflicts Gently:\n\n    Focus on the issue, not the person. Avoid bringing up past mistakes during arguments.\n    Take a break if emotions run high, then revisit the topic calmly.",
+            "Set Boundaries:\n\n    Maintain personal space and respect each other’s individuality."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

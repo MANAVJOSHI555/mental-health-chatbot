@@ -1,0 +1,35 @@
+{
+  "id": "a9294e0a-3e26-45e6-a0af-826f0749632a",
+  "name": "how to treat PTSD ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Cognitive Behavioral Therapy (CBT)\n\n    Cognitive Processing Therapy (CPT): Helps individuals identify and change unhelpful thought patterns related to the trauma.\n    Prolonged Exposure Therapy (PE): Involves gradually confronting trauma-related memories, feelings, and situations to reduce their power.                                                                   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  2. Eye Movement Desensitization and Reprocessing (EMDR)\nCombines therapy with guided eye movements to help individuals process traumatic memories and reduce their emotional intensity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                                                                                     3. Medication\nSelective Serotonin Reuptake Inhibitors (SSRIs): Antidepressants like sertraline (Zoloft) and paroxetine (Paxil) are often prescribed for PTSD to reduce symptoms.\n Prazosin: Sometimes used to help reduce nightmares and improve sleep in people with PTSD.                                                                                                                                             -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4.  Trauma-Focused   Therapy\nThis approach involves a focus specifically on the traumatic event, helping individuals work through emotions and memories related to their trauma.                              --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------5. Group Therapy\nSupport groups where individuals with PTSD share experiences can help reduce isolation and offer mutual support."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

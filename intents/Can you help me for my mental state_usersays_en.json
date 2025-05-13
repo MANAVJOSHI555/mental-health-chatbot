@@ -1,0 +1,67 @@
+[
+  {
+    "id": "80407727-b2e6-4513-9568-639d5019ca5a",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a984786b-b83b-4599-9e43-8a200b32a310",
+    "data": [
+      {
+        "text": "please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e7b3517-8dae-4c36-a4ac-0e395fc16c1d",
+    "data": [
+      {
+        "text": "can you help me ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46f4a4a8-6a36-4adf-b88e-7e8b429c0d60",
+    "data": [
+      {
+        "text": "I\u0027m feeling stressed. Can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "626dc6cb-dc6f-436c-988d-ba76e3431174",
+    "data": [
+      {
+        "text": "Can you help me for my mental state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

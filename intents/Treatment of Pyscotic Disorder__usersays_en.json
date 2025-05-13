@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bfe8244e-d562-4c61-b06f-a1255f37c907",
+    "data": [
+      {
+        "text": "tell me some ways to cure the pyscotic disorder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23fe4fdf-58fa-4c63-b3d8-9b21a7a0d4f1",
+    "data": [
+      {
+        "text": "what are the ways to deal with pyscotic disorder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dc3fdd4-facb-4956-9097-52e8432d6a7e",
+    "data": [
+      {
+        "text": "Treatment of Pyscotic Disorder?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

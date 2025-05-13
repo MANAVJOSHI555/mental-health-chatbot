@@ -1,0 +1,35 @@
+{
+  "id": "ad95e603-cc49-492c-a39b-8ab3d96d2c90",
+  "name": "symptoms of eating disorder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Physical Symptoms:- \n\n    Changes in eating habits: Significant fluctuations in appetite, excessive food restriction, binge eating, or compulsive overeating.    \n    Weight changes: Rapid weight loss, weight gain, or difficulty maintaining a healthy weight.\n    Body image issues: Extreme preoccupation with body weight, shape, or appearance.\n    Digestive problems: Constipation, diarrhea, bloating, or abdominal pain.\n    Physical exhaustion: Fatigue, weakness, or dizziness.\n    Hair loss: Thinning hair or hair loss.\n    Skin problems: Dry, brittle skin or nails."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

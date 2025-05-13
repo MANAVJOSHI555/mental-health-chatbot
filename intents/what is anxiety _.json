@@ -1,0 +1,36 @@
+{
+  "id": "3fc78ada-95a3-434e-a5fb-9fc43c7ff20d",
+  "name": "what is anxiety ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Anxiety is a natural emotional response characterized by feelings of worry, nervousness, or unease, typically about an uncertain outcome or potential future events. It can be triggered by stress, personal concerns, or perceived threats. Anxiety is part of the body’s “fight-or-flight” response, preparing you to face or avoid danger.",
+            "In simple words feeling nervousness,worry and unease about something feeling concern,tension and distress"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

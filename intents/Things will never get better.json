@@ -1,0 +1,36 @@
+{
+  "id": "71ec1dfe-7015-48e1-a0a4-ff9c4523eed0",
+  "name": "Things will never get better",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I hear you. It’s hard to feel hope sometimes, but things can change, even if it doesn’t feel that way now.",
+            "It’s tough to feel this way. Have you talked to someone you trust about how you’re feeling? Sharing can help lighten the burden."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
